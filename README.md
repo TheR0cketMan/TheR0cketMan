@@ -19,3 +19,9 @@ Over the past year, I have been developing my companies new website theme, or as
 ##
 
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TheR0cketMan&theme=algolia&no-frame=true" alt="TheR0cketMan" /></a></p>
+
+<h2>:chart_with_upwards_trend: My Stats:</h2>
+
+<p align="center">
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=TheR0cketMan&count_private=true&include_all_commits=true&theme=algolia" />
+</p>
