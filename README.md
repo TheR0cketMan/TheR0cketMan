@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 -->
 ##
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TheR0cketMan)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TheR0cketMan" alt="TheR0cketMan" /></a>
