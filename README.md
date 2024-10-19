@@ -1,8 +1,8 @@
 <h2> :construction_worker: About Me:</h2>
 
-Hello 👋 I'm Ryan aka RocketMan, Founder and Managing Director Roqitt Hosting Ltd.
+Hello 👋 I'm Ryan aka RocketMan.
 
-From a very young age, I began my passion and curiosity with technology, specifically websites, servers and frontend web development. Over the past 16 years, I have been focusing on and improving my knowledge and expertise in these areas.
+From a very young age, I began my passion and curiosity with technology, specifically websites, servers and frontend web development. Over the past 16+ years, I have been focusing on and improving my knowledge and expertise in these areas.
 
 In 2014, I started working for several web hosting companies for just over a year, which helped me improve my knowledge and experience.
 
@@ -10,11 +10,14 @@ In early 2021, I founded my own company with the aim of putting customers first.
 
 I coded the website for my business using Bootstrap 4 & Bootstrap E-commerce (a paid plugin).
 
+I am currently learning **C#** programming language, so I am quite excited to gain enough confidence with this programming language to progress further and work on even more exciting projects in the future.
+
 ##
 
 #### <h3>:building_construction: Currently working on:</h3>
 
-Over the past year, I have been developing my companies new website theme, or as we like to call it, <strong>v3</strong>, following the mockup designed by our business partner <strong><a href="https://partydoosmedia.com/" target="_blank">PartydoosMedia</a></strong>. This version utilises Bootstrap 5. We can't wait to share this with the public over the coming months.
+- The next version of Fileflow, with all new features and a brand new, updated cleaner layout. I can't wait to share this update with you all.
+- My new website
 
 ##
 
