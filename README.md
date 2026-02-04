@@ -10,7 +10,7 @@ In early 2021, I founded my own company with the aim of putting customers first.
 
 I coded the website for my business using Bootstrap 4 & Bootstrap E-commerce (a paid plugin).
 
-I am currently learning **C#** programming language, so I am quite excited to gain enough confidence with this programming language to progress further and work on even more exciting projects in the future.
+I am currently working on a brand new version for my personal website.
 
 ##
 
